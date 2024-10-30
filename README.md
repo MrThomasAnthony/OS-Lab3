@@ -7,7 +7,7 @@ To get started with the Server, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/MrThomasAnthony/OS-Lab3.git
-   cd 
+   cd OS-Lab3
 
 2. **Install g++ (if not already installed):**
 
